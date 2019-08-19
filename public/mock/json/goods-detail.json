@@ -1,0 +1,125 @@
+{
+	"id": "30013",
+	"name": "強生define-新美瞳日拋隱形眼鏡 30片",
+	"desc":"凝結後的水氣似霧又似冰，美的就像水晶即使平凡的花草樹木，一旦被冰霧包裹，就成了動人的冰花、冰樹。綺芙莉就是要為女性，帶來比美麗更令人屏息的輕熟感精緻瞳色。",
+	"banners":[
+		{
+			"id": 1,
+			"img": "mock/img/detail-banner1.png"
+		},
+		{
+			"id": 2,
+			"img": "mock/img/detail-banner2.png"
+		},
+		{
+			"id": 3,
+			"img": "mock/img/detail-banner3.png"
+		}
+	],
+	"newPrice": 358,
+	"oldPrice": 488,
+	"sale": 1,
+	"standardImages":[
+		{
+			"color": "魅力棕-黑色",
+			"img": "mock/img/img-d-c1.jpg"
+		},
+		{
+			"color": "棕色",
+			"img": "mock/img/img-d-c2.jpg"
+		},
+		{
+			"color": "灰色",
+			"img": "mock/img/img-d-c3.jpg"
+		}
+	],
+	"degree": [
+		"0.00", "-1.00","-1.50", "-2.00","-2.50","-3.00","-3.50","-4.00","-4.50","-5.00"
+	],
+	"explain":"假一賠十 | 7天無憂退貨 | 滿100免運費",
+	"appraise": {
+		"num": 4,
+		"rateScore": "98.7",
+		"list": [
+			{
+				"userImg": "mock/img/user_img1.jpg",
+				"name": "買家1",
+				"content": "朋友推薦的，很好看的顏色，上眼特別驚艷，自然粉色，舒適度也不錯。",
+				"showImg": "mock/img/user_show1.jpg"
+			},
+			{
+				"userImg": "mock/img/user_img1.jpg",
+				"name": "買家2",
+				"content": "朋友推薦的，很好看的顏色，上眼特別驚艷，自然粉色，舒適度也不錯。",
+				"showImg": "mock/img/user_show1.jpg"
+			},
+			{
+				"userImg": "mock/img/user_img1.jpg",
+				"name": "買家3",
+				"content": "朋友推薦的，很好看的顏色，上眼特別驚艷，自然粉色，舒適度也不錯。",
+				"showImg": "mock/img/user_show1.jpg"
+			},
+			{
+				"userImg": "mock/img/user_img1.jpg",
+				"name": "買家4",
+				"content": "朋友推薦的，很好看的顏色，上眼特別驚艷，自然粉色，舒適度也不錯。",
+				"showImg": "mock/img/user_show1.jpg"
+			}
+		]
+	},
+	"productMessage":[
+		{
+			"key":"材質",
+			"value":"甲基丙烯酸羥乙酯、乙二醇二甲基丙烯酸酯"
+		},
+		{
+			"key":"含水量",
+			"value":"55%"
+		},
+		{
+			"key":"保質期",
+			"value":"3年"
+		},
+		{
+			"key":"直徑",
+			"value":"14.2mm"
+		},
+		{
+			"key":"基弧",
+			"value":"8.6mm"
+		},
+		{
+			"key":"中心厚度",
+			"value":"0.09mm（-3.00D吋）"
+		},
+		{
+			"key":"包裝規格",
+			"value":"2片/盒"
+		},
+		{
+			"key":"配戴周期",
+			"value":"月"
+		},
+		{
+			"key":"花色",
+			"value":"活力黑、印象棕、璀璨灰、酒紅褐"
+		}
+	],
+	"productStamp":[
+		{
+			"stamp": "琉晶棕",
+			"text": "細膩的網點環狀，簡單卻不失細節。精心調配的靚黑外圈，讓眼眸深邃有神，內圈獨特的裸膚棕映襯眼底，光感剔透更顯雙眸清透水潤如琉晶。不用任何眼影，只貼合睫毛根部畫出流暢眼線，眼尾微微上翹，塗抹有光澤和拉長效果的睫毛膏。清新又如水般的眼眸，柔和親近感油然而生。",
+			"img": "mock/img/img-d4.png"
+		},
+		{
+			"stamp": "清幽蓝",
+			"text": "寶石般清澈的藍，從層層暗色星雲中擴散，漸漸氤氳成深邃燦爛的星河。花紋的漸層疊加，貼合著眼部自然紋路，帶來通透變色效果，勾勒出閃亮星光眸。適當的加深眼周立體感，眼眸中藍色的自然露出，宛若天生混血美目。即使是通勤裝扮，也不用擔心效果突兀。",
+			"img": "mock/img/img-d5.png"
+		},
+		{
+			"stamp": "活力黑",
+			"text": "深邃黑結合經典可可環打造自然放大的清新雙眸。外環設計以集中瞳孔為焦點，圍繞成雙層閃耀星星環來營造出深邃感，第二層的甜美可可色糅合黑環，使配戴效果更有層次。不需要刻意的色彩和眼妝技巧，也能擁有元氣神韻。",
+			"img": "mock/img/img-d6.png"
+		}
+	]
+}

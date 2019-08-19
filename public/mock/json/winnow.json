@@ -1,0 +1,58 @@
+{
+	"bigImg1": "https://castle.womany.net/images/content/pictures/42748/content_womany_banner_2_1460072605-24280-2295.jpg",
+	"bigImg2": "http://www.miacare.com.tw/webc/images/home/banner_01_lg.jpg",
+	"winnowItems1":[
+		{
+				"name": "實用券攻略",
+				"desc": "禮盒券後減130",
+				"img": "mock/img/2f_2.jpg"
+			},
+			{
+				"name": "神價熱銷榜",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/3f_4.jpg"
+			},
+			{
+				"name": "人氣榜",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/2f_4.jpg"
+			},
+			{
+				"name": "眼鏡課堂",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/2f_4.jpg"
+			},
+			{
+				"name": "護理妙招",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/2f_6.jpg"
+			}
+	],
+	"winnowItems2":[
+		{
+				"name": "實用券攻略",
+				"desc": "禮盒券後減130",
+				"img": "mock/img/2f_2.jpg"
+			},
+			{
+				"name": "神價熱銷榜",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/3f_4.jpg"
+			},
+			{
+				"name": "人氣榜",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/2f_4.jpg"
+			},
+			{
+				"name": "眼鏡課堂",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/2f_4.jpg"
+			},
+			{
+				"name": "護理妙招",
+				"desc": "禮盒券後減120",
+				"img": "mock/img/2f_6.jpg"
+			}
+	]
+}

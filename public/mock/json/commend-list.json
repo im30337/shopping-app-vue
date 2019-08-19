@@ -1,0 +1,31 @@
+[{
+		"img": "mock/img/1f_8.jpg",
+		"title": "庫博Biofinity百視明矽水凝膠月拋隱形眼鏡3片裝",
+		"desc": "庫博光學 CooperVision 作為庫博集團的一個業務分支，是全球領先的軟性隱形眼鏡制...",
+		"keyword1": "美國",
+		"keyword2": "庫博光學",
+		"brand": "庫博",
+		"standard": "月拋",
+		"price": 315
+	},
+	{
+		"img": "mock/img/1f_9.jpg",
+		"title": "庫博Biofinity百視明矽水凝膠月拋隱形眼鏡3片裝",
+		"desc": "庫博光學 CooperVision 作為庫博集團的一個業務分支，是全球領先的軟性隱形眼鏡制...",
+		"keyword1": "美國",
+		"keyword2": "庫博光學",
+		"brand": "庫博",
+		"standard": "月抛",
+		"price": 315
+	},
+	{
+		"img": "mock/img/2f_6.jpg",
+		"title": "庫博Biofinity百視明矽水凝膠月拋隱形眼鏡3片裝",
+		"desc": "庫博光學 CooperVision 作為庫博集團的一個業務分支，是全球領先的軟性隱形眼鏡制...",
+		"keyword1": "美國",
+		"keyword2": "庫博光學",
+		"brand": "庫博",
+		"standard": "月抛",
+		"price": 315
+	}
+]
